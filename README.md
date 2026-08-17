@@ -1,4 +1,4 @@
-# Hi 👋, I'm Carlos Augusto
+# Hello, I'm Carlos Augusto 👋,
 
 🚀 **Software Engineering Student | Backend Developer**
 🇧🇷 Brazil
